@@ -62,7 +62,7 @@ Full portfolio available on request
 
 ## Education & Certifications
 - **BSc Electrical Engineering** — University of the Witwatersrand, Johannesburg, South Africa  
-  *(Strong foundation in electronics, embedded systems, and hardware design)*
+  Strong foundation in electronics, embedded systems, and hardware design
 - **AI Specializations** — AI for Content Creation, AI for Writing & Communicating, AI Fundamentals (recent)
 - **Technical Writing** — Creating REST API Documentation (I’d Rather Be Writing), DITA & Structured Authoring (Scriptorium/Cherryleaf), Advanced Technical Content (UK Institute for Technical Writing)
 - **Other** — Salesforce Administration (Trailhead), Microsoft Certified Systems Engineer (Azlan)
