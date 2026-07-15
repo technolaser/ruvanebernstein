@@ -6,7 +6,7 @@
 | [Email](javascript:void(location.href='mailto:'+'ruvane'+'@'+'techno-laser.com')) | [Phone](tel:+972542362074) |
 | --- | --- |
 
-**LinkedIn:** [Ruvane Bernstein](https://www.linkedin.com/in/ruvanebernstein) {:target="_blank" rel="noopener noreferrer"}
+**LinkedIn:** [Ruvane Bernstein](https://www.linkedin.com/in/ruvanebernstein){:target="_blank" rel="noopener noreferrer"}
 
 # Selected Writing Samples
 - [Google Workspace Manage membership automatically with dynamic groups](https://knowledge.workspace.google.com/admin/groups/manage-membership-automatically-with-dynamic-groups) {:target="_blank" rel="noopener noreferrer"}
