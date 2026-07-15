@@ -1,6 +1,6 @@
 # Ruvane Bernstein
 
-**Senior Technical Writer**  
+## **Senior Technical Writer**  
 **Hardware/Software/Electronics Documentation • Embedded Systems • API & DevEx • AI/LLM Content**
 
 | [Email](javascript:void(location.href='mailto:'+'ruvane'+'@'+'techno-laser.com')) | [Phone](tel:+972542362074) |
