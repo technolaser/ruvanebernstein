@@ -31,16 +31,16 @@ Full portfolio available on request
 
 ## Professional Experience
 ### Remote Technical Writer
-**GOOGLE** | 2019 – Present | California, USA (Remote)  
+**GOOGLE** | 2019 – Present | California, USA
 - Leveraged **Gemini AI** daily to accelerate creation, refinement, and synthesis of technical documentation for Google Workspace Admin Help Center, including AI-powered features
 - Maintained enterprise documentation using **Docs-as-Code** with strong focus on clarity and usability
 - Collaborated with engineering teams to document complex topics resulting in improved enterprise administrator experience
 ### Remote Technical Writer / Editor
-**BOND FINANCIALS** | 2018 – 2019 | California, USA (Remote)
+**BOND FINANCIALS** | 2018 – 2019 | California, USA
 - Authored comprehensive **REST API reference documentation** (Swagger/OpenAPI) and online help center, enabling seamless third-party integrations
 - Produced clear, actionable content for developers
 ### Remote Technical Writer / Editor
-**MODEL N** | 2016 – 2018 | California, USA (Remote)
+**MODEL N** | 2016 – 2018 | California, USA
 - Developed setup, configuration, administration, and user documentation for Salesforce SaaS platforms
 - Partnered with developers to document UI, functionality, error handling, and integrations
 ### Technical Writer / Editor
