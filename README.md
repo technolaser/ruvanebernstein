@@ -10,7 +10,8 @@
 - [Join meetings using SIP on Google Meet hardware](https://knowledge.workspace.google.com/admin/meet-hardware/join-meetings-using-sip-on-google-meet-hardware){:target="_blank" rel="noopener noreferrer"} – Google Workspace Admin Help Center - Meet Hardware
 - [Google Workspace Meet interoperability FAQ](https://knowledge.workspace.google.com/admin/meet-hardware/meet-interoperability-faq){:target="_blank" rel="noopener noreferrer"} – Google Workspace Admin Help Center - Meet Hardware
 - [Bond Financials REST API Reference](https://docs.bond.tech/reference/authentication){:target="_blank" rel="noopener noreferrer"} – API developer documentation
-- [Bond Financials API Reference Guide](https://docs.bond.tech/docs/welcome-introduction){:target="_blank" rel="noopener noreferrer"} – Software developer documentation  
+- [Bond Financials API Reference Guide](https://docs.bond.tech/docs/welcome-introduction){:target="_blank" rel="noopener noreferrer"} – Software developer documentation
+- [Intel TPM Tools User Guide](https://www.techno-laser.com/samples_extracts/Intel_TPM_Tools_User_Guide_xtr.pdf){:target="_blank" rel="noopener noreferrer"} – Intel TPM user documentation
 
 Full portfolio available on request
 
